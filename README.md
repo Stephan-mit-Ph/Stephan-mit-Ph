@@ -22,3 +22,8 @@ my skills through hands-on projects and collaboration with the open-source commu
 my Github profile to see my journey unfold and join me on this exciting ride!"
 
 ![Coding Gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+
+- E-Commerce
+- UX/UI Design
+- Programmig
