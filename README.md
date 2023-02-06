@@ -26,4 +26,4 @@ my Github profile to see my journey unfold and join me on this exciting ride!"
 
 - E-Commerce
 - UX/UI Design
-- Programmig
+- Programming
