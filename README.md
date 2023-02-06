@@ -27,3 +27,6 @@ my Github profile to see my journey unfold and join me on this exciting ride!"
 - E-Commerce
 - UX/UI Design
 - Programming
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=King+of+my+castle)](https://git.io/typing-svg)
