@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> "I'm a programming enthusiast with a passion for problem-solving and a love for learning. 
+As a beginner, I am eager to dive into the world of code and excited to discover new technologies 
+and programming languages. My goal is to turn my passion into a career and to constantly improve 
+my skills through hands-on projects and collaboration with the open-source community. Check out 
+my Github profile to see my journey unfold and join me on this exciting ride!"
+
