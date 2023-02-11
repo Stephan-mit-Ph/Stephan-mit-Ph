@@ -30,3 +30,7 @@ my Github profile to see my journey unfold and join me on this exciting ride!"
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=King+of+my+castle)
+
+* Item 1
+* Item 2
+  *Item 3
