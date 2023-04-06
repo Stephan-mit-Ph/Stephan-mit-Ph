@@ -31,6 +31,6 @@ my Github profile to see my journey unfold and join me on this exciting ride!"
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=King+of+my+castle)
 
-[![Stephan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephan-mit-ph)](https://github.com/stephan-mit-ph/github-readme-stats)
+[![Stephan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephan-mit-ph&theme=radical)](https://github.com/stephan-mit-ph/github-readme-stats)
 
 
