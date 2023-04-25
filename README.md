@@ -33,4 +33,3 @@ my Github profile to see my journey unfold and join me on this exciting ride!"
 
 [![Stephan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephan-mit-ph&theme=radical)](https://github.com/stephan-mit-ph/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Stephan-mit-Ph&left_color=purple&right_color=blue)
