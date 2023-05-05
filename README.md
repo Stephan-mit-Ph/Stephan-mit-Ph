@@ -21,7 +21,8 @@ and programming languages. My goal is to turn my passion into a career and to co
 my skills through hands-on projects and collaboration with the open-source community. Check out 
 my Github profile to see my journey unfold and join me on this exciting ride!"
 
-![Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
 
 - E-Commerce
 - UX/UI Design
