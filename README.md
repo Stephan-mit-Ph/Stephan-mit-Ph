@@ -1,4 +1,4 @@
-# Welcome to my GitHub! 👋
+# Hi! it's me! Stephan
 
 <!--
 **Stephan-mit-Ph/Stephan-mit-Ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
