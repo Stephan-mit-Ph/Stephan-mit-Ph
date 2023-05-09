@@ -23,13 +23,17 @@ my Github profile to see my journey unfold and join me on this exciting ride!"
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)![Styled Components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)![Iterm 2](https://img.shields.io/badge/iTerm2-000000.svg?style=for-the-badge&logo=iTerm2&logoColor=white)
 
 ## Graphic Stack
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)![Illustrator](https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)![Illustrator](https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Communication
 ![Asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&logo=Asana&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white)
+
+## E-Commerce & Onlinemarketing
+
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white)![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white)![Wordpress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)![Elementor](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white)
 
 
 
