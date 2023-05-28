@@ -39,13 +39,6 @@ my Github profile to see my journey unfold and join me on this exciting ride!"
 
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white)![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white)![Wordpress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)![Elementor](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white)
 
-
-
-- E-Commerce
-- UX/UI Design
-- Programming
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=King+of+my+castle)
 
 [![Stephan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephan-mit-ph&theme=radical)](https://github.com/stephan-mit-ph/github-readme-stats)
