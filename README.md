@@ -2,7 +2,7 @@
 
 # Hi! it's me! Stephan
 
- </div>
+
 <!--
 **Stephan-mit-Ph/Stephan-mit-Ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,3 +53,5 @@ my Github profile to see my journey unfold and join me on this exciting ride!"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-mit-ph&layout=compact&theme=radical)](https://github.com/stephan-mit-ph/github-readme-stats)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Stephan-mit-Ph&labelColor=%23a9fef7&countColor=%23fe438e&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=Stephan-mit-Ph)
+ 
+  </div>
